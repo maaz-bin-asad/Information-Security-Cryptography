@@ -1,0 +1,1 @@
+Ring theory is a mathematical concept that considers finite set of abelian group and performs operations with them such that the result belongs to same ring. The result is always calculated using congruency rule and binary operators that are included in ring here are addition and multipication. The operations in this instance are also assocaitive and commutative in nature. 

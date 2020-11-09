@@ -1,0 +1,1 @@
+Congruency class is an infinite set of integers that contains numbers such that when we pick any two of them, they are congruent to each other under certain modulo key. They find applications in various algorithms like RSA which requires advanced modulo mathematcis.
